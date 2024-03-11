@@ -34,14 +34,14 @@ body {
 
 .doors {
   display: flex;
-  gap: 200px;
+  gap: 215px;
   margin-top:18%;
 }
 
 .door {
 
   width: 100px;
-  height: 150px;
+  height: 180px;
   overflow: hidden;
   border-radius: 1ex;
   margin: 1ch;  

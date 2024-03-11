@@ -3,8 +3,6 @@ body {
   background: url('backgroundimg.PNG') no-repeat center center fixed;
   /* Adjust the background properties as needed */
   background-size: cover;
-  width: 100vw;
-  height: 100vh;
   margin: 0;
   border: 0;
   padding: 0;
@@ -33,20 +31,15 @@ body {
 .doors {
   display: flex;
   gap: 200px;
-  margin-top: 15%;
+  margin-top: 18%;
 }
-
 .door {
 
   width: 100px;
   height: 150px;
   overflow: hidden;
   border-radius: 1ex;
-  margin: 1ch;
-  
-  
-
-  
+  margin: 1ch; 
 }
 
 .boxes {
@@ -84,5 +77,5 @@ button {
   font-size: 1.5rem;
   color: white;
   text-shadow: 2px 2px 4px #000000;
-  padding-top: 15%;
+  margin-top: 164px;
 }
